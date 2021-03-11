@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  redirectUrl: 'ENTER_DEV_URL_HERE',
+  clientId: 'ENTER_CLIENT_ID_GUID_HERE',
+  tenantName: 'ENTER_TENANT_NAME_HERE'
 };
 
 /*
